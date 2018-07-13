@@ -4,7 +4,7 @@ remote_theme: DentistSmile
 # Site settings
 title: DentistSmile | Dental Jekyll Theme
 description: "A responsive Jekyll theme for dental clinics."
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/s-site-test" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
 logo_url: svg/min/logo.svg
 
